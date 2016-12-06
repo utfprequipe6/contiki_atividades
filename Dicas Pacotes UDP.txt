@@ -1,0 +1,7 @@
+Aqui a função para converter trechos inteiros em ascii (vetor de 8 bits -char )
+
+sprintf(char *str, const char *format, ...)
+
+(tem que colocar o #include )
+
+No servidor Python é possível usar a função recebido.decode("ascii") para qualquer vetor de bytes recebidos.
