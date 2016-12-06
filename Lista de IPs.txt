@@ -1,0 +1,72 @@
+1	
+aaaa::0212:4B00:07B9:5E8D
+		
+2
+	2	
+aaaa::0212:4B00:07C3:B5E4
+		
+3
+	3	
+aaaa::0212:4B00:07B9:59B8
+		
+4
+	4	
+aaaa::0212:4B00:07b9:5d69
+		
+5
+	5	
+aaaa::0212:4B00:07C3:B5A7
+		
+6
+	6	
+aaaa::0212:4B00:07C3:B5BB
+		
+7
+	7	
+aaaa::0212:4B00:07B9:5D35
+		
+8
+	8	
+aaaa::0212:4B00:07C3:B76E
+		
+9
+	9	
+aaaa::0212:4B00:07B9:6029
+		
+10
+	10	aaaa::0212:4B00:07B9:5ECC		
+11
+	3V	aaaa::0212:4b00:04e9:043B		
+12
+	5V	aaaa::0212:4b00:04e9:0467		
+13
+	6V	aaaa::0212:4b00:04e9:050D		
+14
+	7A	aaaa::0212:4b00:04e9:31CB		
+15
+	7V	aaaa::0212:4B00:04E9:0479		
+
+	IP Linux	bbbb::e5c3:1ffd:9713:b7ac		
+
+	IP Border Router	aaaa::212:4b00:8b8:3bf4		
+
+	
+IP Servidor Atividade 6
+	aaaa::0212:4B00:07B9:5ECC		
+
+	bbbb::1d64:8718:a95a:c23e		
+
+
+	Cliente RSSI	aaaa::0212:4B00:07B9:5ECC		10
+
+	Servidor RSSI	aaaa::0212:4B00:04E9:0479		7V
+
+	Bootloader	aaaa::0212:4b00:04e9:050D		6V
+
+	
+Bootloader com Servidor
+	aaaa::0212:4b00:04e9:043B		3V
+
+	Sniffer	aaaa::0212:4b00:04e9:0467		5V
+
+	Bootloader	aaaa::0212:4b00:04e9:31CB		7A
